@@ -1,5 +1,7 @@
 /*This is the repository file
 * Handles CRUD management
+* FOR NOW - FOR SIMPLICITY
+* this acts as a service / repository‑combined class: it handles creation, update, removal, listing tasks (i.e. “business logic + data storage” in memory)
 * */
 
 import java.util.ArrayList;
